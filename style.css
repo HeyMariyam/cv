@@ -1,0 +1,93 @@
+img
+{
+    margin-top: 20px;
+    width: 90%;
+    height: 0%;
+    background-color: rgb (111, 242, 247);
+}
+html
+{
+    margin-top: 0px;
+}
+body
+{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-size: 2em;
+    background-color: aquamarine
+}
+
+#clo1
+{
+    width: 50%;
+    height: 40%;
+    position: absolute ;
+    right: 660px;
+    top: 400px;
+}
+
+#clo
+
+{
+    margin-top: 5%;
+    width: 50%;
+    height: 40%;
+    position: absolute ;
+    right: 5px;
+    top: -80px;
+}
+.first
+{
+    margin: 3%;
+    padding-top: 100px ;
+    background-color:rgb(104, 248, 241);
+}
+h1
+{
+    font-size: 5rem;
+    margin-bottom: 0;
+    font-family: 'Sacramento', cursive;
+}
+h3
+{
+    font-family: 'Merriweather', serif;
+    ;
+}
+/* h2
+{
+    margin-top: 2px;
+    font-family: 'Montserrat', sans-serif;
+} */
+.second
+{
+    border-top-style: double;
+    padding-top: 50px ;
+    border-bottom-style: double;
+}
+.mariyam
+{
+    margin-top: 0;
+    width: 20%;
+    height: 20%;
+}
+.four
+{
+    border-top-style: double;
+    border-bottom-style: double; 
+}
+a{
+    color: lightcoral;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
